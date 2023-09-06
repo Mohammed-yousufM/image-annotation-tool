@@ -1,0 +1,25 @@
+.iconButton {
+	outline: 0;
+	border: 0;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: inherit;
+	margin: 0 10px;
+}
+
+.iconButton > svg {
+	width: 22px;
+	height: 22px;
+}
+
+.iconButton:hover {
+	background-color: aqua;
+}
+
+.iconButton:hover > svg {
+	fill: blue;
+}
