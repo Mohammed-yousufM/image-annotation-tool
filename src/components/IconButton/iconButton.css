@@ -23,3 +23,11 @@
 .iconButton:hover > svg {
 	fill: blue;
 }
+
+.iconButton:disabled:hover {
+	opacity: 0.5;
+}
+
+.iconButton:disabled > svg {
+	opacity: 0.5;
+}
