@@ -34,10 +34,3 @@
 .main__heading {
 	margin: 0 0 30px;
 }
-
-.main__section {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-	align-items: center;
-}

@@ -1,4 +1,4 @@
-import Icons from "../../assets/icons/sprite.svg";
+import Icons from "../../../assets/icons/sprite.svg";
 import "./iconButton.css";
 
 function IconButton({ iconName, onClickBtn, disabled }) {
