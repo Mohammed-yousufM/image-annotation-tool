@@ -1,5 +1,5 @@
 import "./App.css";
-import { ImageAnnotation } from "./components/CustomImage";
+import { ImageAnnotation } from "./components/ImageAnnotation";
 
 function App() {
 	return (

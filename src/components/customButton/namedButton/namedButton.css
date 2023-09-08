@@ -1,0 +1,18 @@
+.namedButton{
+	outline: none;
+	border: 0;
+	padding: 6px 12px;
+	border-radius: 4px;
+	cursor: pointer;
+	color: white;
+	background-color: green;
+	font-weight: 600;
+}
+
+.namedButton:hover{
+	color: aquamarine;
+}
+
+.namedButton:active{
+	opacity: 0.7;
+}
